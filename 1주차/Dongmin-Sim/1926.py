@@ -4,6 +4,8 @@ https://www.acmicpc.net/problem/1926
 '''
 import sys
 
+s
+
 
 def bfs(x, y, n, m, Map, count, visited, d):
 
