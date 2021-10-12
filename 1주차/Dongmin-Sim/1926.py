@@ -4,8 +4,6 @@ https://www.acmicpc.net/problem/1926
 '''
 import sys
 
-s
-
 
 def bfs(x, y, n, m, Map, count, visited, d):
 
@@ -52,7 +50,7 @@ def main():
     Map = [list(map(int, input().split())) for _ in range(n)]
 
     region, visited = solution(n, m, Map)
-
+    print(visited)
     print(region)
     print(max(map(max, visited)))
 
