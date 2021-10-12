@@ -10,6 +10,10 @@ graph[(1, 0)] = 0
 
 while q:
     screen, clip = q.popleft()
+
+    if screen < 0 or clip < 0:
+        continue
+
     if screen == s:
         print(graph[(screen, clip)])
         break
@@ -22,6 +26,6 @@ while q:
         graph[(screen + clip, clip)] = graph[(screen, clip)] + 1
         q.append((screen + clip, clip))
 
-    if (screen - 1, clip) not in graph.keys():
+    if (screen - 1, clip) not in graph.keys() and screen > 0:
         graph[(screen - 1, clip)] = graph[(screen, clip)] + 1
         q.append((screen - 1, clip))
