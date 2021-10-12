@@ -16,7 +16,7 @@ while q:
 
     if screen == s:
         print(graph[(screen, clip)])
-        break
+        exit()
 
     if (screen, screen) not in graph.keys():
         graph[(screen, screen)] = graph[(screen, clip)] + 1
