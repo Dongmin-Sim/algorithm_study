@@ -65,7 +65,7 @@ def solution(input_board, sr, sc):
     global board
 
     board = input_board
-    print(board)
+
     # 카드들의 좌표값 저장 ex [[], [(1, 2), (3, 4)], [], ...]
     location = [[] for _ in range(7)]
     # 카드들의 종류가 담긴 리스트 ex) [1, 3, 5]
