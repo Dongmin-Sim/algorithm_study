@@ -1,6 +1,7 @@
 '''
 문제 : 예산
-문제 출처 : 
+출처 : https://www.acmicpc.net/problem/6236
+카테고리 : #binary-search
 '''
 
 
