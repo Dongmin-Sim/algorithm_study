@@ -1,4 +1,4 @@
-# 코딩테스트 문제풀이 스터디
+# 1코딩테스트 문제풀이 스터디
 
 <br>
 
@@ -56,9 +56,10 @@
 
 ## ✏️풀이한 문제 (백준)
 
-| 주차  | 문제 1                                                     | 문제 2                                         | 문제 3                                            | 문제 4                                       |
-| ----- | ---------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------- | -------------------------------------------- |
-| 1주차 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [토마토](https://www.acmicpc.net/problem/7576) | [내리막 길](https://www.acmicpc.net/problem/1502) | [그림](https://www.acmicpc.net/problem/1926) |
-|       |                                                            |                                                |                                                   |                                              |
-|       |                                                            |                                                |                                                   |                                              |
-|       |                                                            |                                                |                                                   |                                              |
+| 주차  | 문제 1                                                       | 문제 2                                              | 문제 3                                                 | 문제 4                                                   |
+| ----- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
+| 1주차 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)   | [토마토](https://www.acmicpc.net/problem/7576)      | [내리막 길](https://www.acmicpc.net/problem/1502)      | [그림](https://www.acmicpc.net/problem/1926)             |
+| 2주차 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [치킨배달](https://www.acmicpc.net/problem/15686)   | [빵집](https://www.acmicpc.net/problem/3109)           | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |
+| 3주차 | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) | [가르침](https://www.acmicpc.net/problem/1062)      | [이모티콘](https://www.acmicpc.net/problem/14226)      | [기타리스트](https://www.acmicpc.net/problem/1495)       |
+| 4주차 | [중량제한](https://www.acmicpc.net/problem/1939)             | [전깃줄](https://www.acmicpc.net/problem/2564)      | [테트로미노](https://www.acmicpc.net/problem/14500)    |                                                          |
+| 5주차 | [감시](https://www.acmicpc.net/problem/15683)                | [종이의 개수](https://www.acmicpc.net/problem/1780) | [괄호 추가하기](https://www.acmicpc.net/problem/16637) |                                                          |
